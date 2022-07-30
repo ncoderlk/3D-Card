@@ -14,9 +14,13 @@ body,
   text-align: center;
   letter-spacing: 1px;
   font-family: 'Roboto Condensed', sans-serif;
+  width: max-content;
+  min-width: min-content;
+  margin: 0 auto;
+  scroll-behavior: smooth;
 }
 
-@media (max-width:468px) {
+@media (max-width:1048px) {
 
   body,
   .container {
@@ -93,4 +97,24 @@ h2 {
 p {
   color: #ccc;
   padding-top: 20px;
+}
+
+a,
+a::before,
+a::after,
+a:active {
+
+  color: #333;
+  text-decoration: none;
+  float: left;
+  text-align: end;
+}
+
+
+a:visited {
+  color: #d0de21;
+}
+
+a:hover {
+  color: #fff
 }
