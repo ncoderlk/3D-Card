@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
 * {
   margin: 0;
   box-sizing: border-box;
@@ -11,7 +13,7 @@ body,
   background: #04000e;
   text-align: center;
   letter-spacing: 1px;
-
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 @media (max-width:468px) {
