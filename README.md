@@ -10,5 +10,6 @@
 <br><hr><br>
 #### <code>//Demo//</code><br>
 
-<code><a href="https://3-d-card-weld.vercel.app" target="_blank">https://3-d-card-weld.vercel.app</a></code>
+<code><a href="https://3-d-card-weld.vercel.app" target="_blank">Vercel</a></code>
+<code><a href="https://codepen.io/ncoderlk/full/dymJXbP" target="_blank">CodePen</a></code>
 
